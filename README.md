@@ -47,3 +47,7 @@ The Function takes a JSON payload and sends insights it finds. For example:
   "passengerCount": 5,
   "paymentType": "2"
 }
+```
+
+## Demo video link
+
