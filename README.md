@@ -14,6 +14,7 @@ This project shows a real time event driven structure to track to observe suspec
 **Azure Logic App** -Subscribes an Event Hub, triggers the Azure Function and parses the results and performs conditional flows.
 
 **Flowchart Screenshot:**
+<img width="1365" height="649" alt="Image" src="https://github.com/user-attachments/assets/82456398-f5cb-4ecb-b249-5e764bf87d93" />
 ## ⚙️ Logic App Flow – Steps
 **Trigger:**
    Uses Fire when there are new events on Event Hub.
