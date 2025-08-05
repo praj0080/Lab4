@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=tripanalyzerstorage;AccountKey=V3MiSNySTWH2hANgVksY7g55ZJ/8XUjYuxGZYFHRbAyVc0sVVrsD7Wb2semsGyUbAdaTQPUOs3b4+AStMv3FEA==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "InstrumentationKey=032e3bc8-f071-43ed-96aa-9249fb43315e;IngestionEndpoint=https://canadacentral-1.in.applicationinsights.azure.com/;LiveEndpoint=https://canadacentral.livediagnostics.monitor.azure.com/;ApplicationId=85ac5eba-5484-4919-8e0c-065cb3704668"
+  },
+  "ConnectionStrings": {}
+}
